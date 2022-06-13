@@ -1,7 +1,7 @@
 # Uso de Azure IoT Hub, para hacer un Bot de preguntas y respuestas
 En este repositorio tenemos una demostración del uso de Azure IoT Hub, conectándolo con un Raspberry.
 
-![Microsoft-Azure-IoT-Hub](images\Microsoft-Azure-IoT-Hub.png)
+![Microsoft-Azure-IoT-Hub](https://github.com/DagonNR/IoT-Hub-Raspberry/blob/main/images/Microsoft-Azure-IoT-Hub.png)
 
 ---
 
@@ -23,14 +23,14 @@ En este repositorio tenemos una demostración del uso de Azure IoT Hub, conectá
 - Lo primero es entrar en [Microsoft Azure](https://portal.azure.com).
 - Ya dentro, buscaremos el recurso de "Centro de IoT", nos pedirá ciertas cosas, las configuramos, dependiendo de nuestras necesidades, y lo creamos.
 
-![P1](images\P1.PNG)
+![P1](https://github.com/DagonNR/IoT-Hub-Raspberry/blob/main/images/P1.PNG)
 
 - Ya dentro del recurso, iremos al apartado de "Dispositivos", clicaremos en "+ Agregar dispositivo"
 
-![P2](images\P2.PNG)
+![P2](https://github.com/DagonNR/IoT-Hub-Raspberry/blob/main/images/P2.PNG)
 
 - Nos pedirá una ID, y lo creamos.
 - Ya creado, entramos en él y buscamos la "Cadena de conexión principal".
 - Con esa cadena podemos enlazar nuestra Raspberry virtual.
 
-![P2.1](images\P2.1.PNG)
+![P2.1](https://github.com/DagonNR/IoT-Hub-Raspberry/blob/main/images/P2.1.PNG)
