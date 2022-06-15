@@ -1,4 +1,4 @@
-# Uso de Azure IoT Hub, para hacer un Bot de preguntas y respuestas
+# Uso de Azure IoT Hub
 En este repositorio tenemos una demostración del uso de Azure IoT Hub, conectándolo con un Raspberry.
 
 ![Microsoft-Azure-IoT-Hub](https://github.com/DagonNR/IoT-Hub-Raspberry/blob/main/images/Microsoft-Azure-IoT-Hub.png)
